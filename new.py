@@ -66,7 +66,7 @@ import os
 # Join :- @DX4_CHEATS #from keep_alive import keep_alive
 # Join :- @DX4_CHEATS #keep_alive()
 # Join :- @DX4_CHEATS # insert your Telegram bot token here
-bot = telebot.TeleBot('7152827865:AAEXfwS-JBW57VQPVMT32l3cTaVoczcce4k')
+bot = telebot.TeleBot('7256495827:AAFOE5YTeyqnIhUKYJMUbWIiH6jOs0u2D8U')
 
 # Join :- @DX4_CHEATS # Admin user IDs
 admin_id = ["5320823214"]
